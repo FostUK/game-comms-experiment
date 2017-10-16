@@ -14,7 +14,7 @@ npm install
 Files are served using [express](https://expressjs.com/) via:
 
 ```
-npm serve
+npm run server
 ```
 
-Navigate to [http://localhost:93](http://localhost:93) (Port can be changed in *server.js*)
+Navigate to [http://localhost:8080](http://localhost:93) (Port can be changed in *server.js*)
