@@ -1,9 +1,9 @@
-#Phaser Game Component Spike
+# Phaser Game Component Spike
 
 2 *game components* a *shop* and a *game*.
 For testing ways to share data.
 
-##Install & run
+## Install & run
 
 From commandline navigate to the project directory
 
